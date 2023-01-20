@@ -13,7 +13,7 @@
 
 @keyframes meals-appear {
   from {
-    opacity: 0;
+    opacity: 0.1;
     transform: translateY(3rem);
   }
 
